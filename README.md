@@ -13,7 +13,7 @@ Patrick Luiz Arruda RM: 83941 4SIS
 Leonardo Jordão Lopes RM: 83659 4SIS
 
 
-#Como rodar os codigos
+# Como rodar os codigos
 
 Para rodar os codigos, e necessario ter instalado as bibliotecas cv2, numpy (para rodar os notebooks de testes é necessario ter instalado a biblioteca matplotlib) 
 
