@@ -15,7 +15,8 @@ Leonardo Jordão Lopes RM: 83659 4SIS
 
 # Como rodar os codigos
 
-Para rodar os codigos, e necessario ter instalado as bibliotecas cv2, numpy (para rodar os notebooks de testes é necessario ter instalado a biblioteca matplotlib) 
+Para rodar os codigos, é necessario ter instalado as bibliotecas cv2, numpy (para rodar os notebooks de testes é necessario ter instalado a biblioteca matplotlib) 
+É necessario ter os arquivos q1A.mp4 e q2.mp4 na mesma pasta que os arquivos Entrega_Parte1 e Entrega_Parte2.
 
 # Rubricas 
 
@@ -26,7 +27,7 @@ Foi alcançada a Rubrica 3 na segunda questão (R3 – Conta a quantidade de car
 
 # Entregas 
 
-Os Arquivos de entregas são Entrega_Parte1 e Entrega_Parte2
+Os Arquivos de entregas são apenas Entrega_Parte1 e Entrega_Parte2, os notebooks que estão dentro da pasta de testes são apenas para demonstração de codigo, não devem ser considerados para a entra da PS
 
 # Testes
 
