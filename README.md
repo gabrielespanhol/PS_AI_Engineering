@@ -15,6 +15,8 @@ Leonardo Jordão Lopes RM: 83659 4SIS
 
 # Como rodar os codigos
 
+Baixar repositorio inteiro 
+
 Para rodar os codigos, é necessario ter instalado as bibliotecas cv2, numpy (para rodar os notebooks de testes é necessario ter instalado a biblioteca matplotlib) 
 É necessario ter os arquivos q1A.mp4 e q2.mp4 na mesma pasta que os arquivos Entrega_Parte1 e Entrega_Parte2.
 
