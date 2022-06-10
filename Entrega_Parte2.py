@@ -53,13 +53,6 @@ while True:
             else:
                 #cv2.drawContours(orig, [boxVermelha.astype("int")], -3, (0, 255, 0), 2)
                 numeroCartaVermelha = numeroCartaVermelha + 1
-
-    # Exibe resultado
-   
-    origem_areaPreta = (350,570)
-    font_area = cv2.FONT_HERSHEY_SIMPLEX
-    cv2.putText(orig, str("Cartas vermelhas: {}").format(numeroCartaVermelha), origem_areaPreta, font_area,1,(20, 184, 184),2,cv2.LINE_AA)
-
     
     
     
