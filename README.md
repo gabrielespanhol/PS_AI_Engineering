@@ -29,7 +29,7 @@ Foi alcançada a Rubrica 3 na segunda questão (R3 – Conta a quantidade de car
 
 # Entregas 
 
-Os Arquivos de entregas são apenas Entrega_Parte1 e Entrega_Parte2, os notebooks que estão dentro da pasta de testes são apenas para demonstração de codigo, não devem ser considerados para a entra da PS
+Os Arquivos de entregas são apenas Entrega_Parte1 e Entrega_Parte2, os notebooks que estão dentro da pasta de testes são apenas para demonstração de codigo, não devem ser considerados para a entrega da PS
 
 # Testes
 
